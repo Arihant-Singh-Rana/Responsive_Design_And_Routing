@@ -1,0 +1,6 @@
+.parent {
+  color: aliceblue;
+  width: 100%;
+  border: 2px solid aliceblue;
+  display: flex;
+}

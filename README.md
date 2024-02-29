@@ -1,5 +1,5 @@
 
-# TechVenture Website
+# Responsive_Design_And_Routing
 
 TechVenture is a responsive website layout created with React. It features a navigation bar with routing and different sections for Home, Memes, News, Notes, and About Us.
 
@@ -86,4 +86,4 @@ This ensures a better user experience on smaller devices by adjusting the layout
 3. Run the development server with `npm start`.
 
 Feel free to explore and modify the code to suit your needs!
-# Responsive_Design_And_Routing
+

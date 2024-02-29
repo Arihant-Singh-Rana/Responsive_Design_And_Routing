@@ -1,0 +1,21 @@
+.B {
+  width: 100vw;
+  border: 4px groove white;
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+  justify-content: center;
+  color: aliceblue;
+}
+.side-section {
+  text-align: center;
+}
+.card {
+  padding: 0px;
+  margin: 0px;
+}
+@media screen and (max-width: 500px) {
+  .side-section {
+    display: none;
+  }
+}
