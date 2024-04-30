@@ -15,7 +15,7 @@ export default function Memes() {
           marginTop: "30vh",
         }}
       >
-        This Is The Meme Section
+        This Is The Memes Section
       </h1>
     </div>
   );
